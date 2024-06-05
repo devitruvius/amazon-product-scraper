@@ -18,13 +18,13 @@ A simple web application to scrape Amazon product listings from the first page o
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/devitruvius/amazon-scraper.git
+    git clone https://github.com/devitruvius/amazon-product-scraper.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd amazon-scraper
+    cd amazon-product-scraper
     npm install
     ```
 
